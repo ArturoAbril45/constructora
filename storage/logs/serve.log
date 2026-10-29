@@ -1,0 +1,355 @@
+
+ INFO Server running on [http://127.0.0.1:8000]. 
+
+ Press Ctrl+C to stop the server
+
+ 2026-08-14 19:00:44 /login .. ~ 1s
+ 2026-08-14 19:00:54 /dashboard .. ~ 1s
+ 2026-08-14 19:00:55 /leads .. ~ 1s
+ 2026-08-14 19:00:56 /projects .. ~ 1s
+ 2026-08-14 19:00:57 /clients .. ~ 1s
+ 2026-08-14 19:00:59 /providers .. ~ 1s
+ 2026-08-14 19:01:00 /warehouses .. ~ 513.41ms
+ 2026-08-14 19:01:01 /tools .. ~ 1s
+ 2026-08-14 19:01:02 /expenses .. ~ 1s
+ 2026-08-14 19:01:03 /receivables .. ~ 1s
+ 2026-08-14 19:01:05 /purchase-orders .. ~ 1s
+ 2026-08-14 19:01:06 /payables .. ~ 1s
+ 2026-08-14 19:01:08 /procedures .. ~ 1s
+ 2026-08-14 19:01:08 /tests .. ~ 1s
+ 2026-08-14 19:01:10 /rentals .. ~ 1s
+ 2026-08-14 19:01:11 /reports/admin .. ~ 1s
+ 2026-08-14 19:01:12 /reports/operational .. ~ 1s
+ 2026-08-14 19:01:13 /catalogs .. ~ 1s
+ 2026-08-14 19:01:14 /settings .. ~ 1s
+ 2026-08-14 19:02:13 / .. ~ 1s
+ 2026-08-14 19:02:15 /dashboard .. ~ 1s
+ 2026-08-14 19:02:16 /login .. ~ 1s
+ 2026-08-14 19:02:18 /livewire/livewire.js .. ~ 2s
+ 2026-08-14 19:02:54 /login .. ~ 1s
+ 2026-08-14 19:03:48 /favicon.ico .. ~ 7.63ms
+ 2026-08-14 19:04:13 /login .. ~ 513.53ms
+ 2026-08-14 19:05:02 /login .. ~ 1s
+ 2026-08-14 19:05:10 /login .. ~ 1s
+ 2026-08-14 19:05:11 .. ~ 5s
+ 2026-08-14 19:05:30 /login .. ~ 1s
+ 2026-08-14 19:05:31 .. ~ 5s
+ 2026-08-14 19:05:56 /login .. ~ 1s
+ 2026-08-14 19:06:28 /livewire/livewire.js .. ~ 1s
+ 2026-08-14 19:14:59 /login .. ~ 1s
+ 2026-08-14 19:15:02 .. ~ 5s
+ 2026-08-14 19:15:08 /login .. ~ 1s
+ 2026-08-14 19:15:17 /login .. ~ 1s
+ 2026-08-14 19:15:24 /build/assets/app-DNYtxCxW.css .. ~ 0.64ms
+ 2026-08-14 19:15:25 /build/assets/app-ZIr-ugBT.js .. ~ 0.08ms
+ 2026-08-14 19:15:25 /login .. ~ 1s
+ 2026-08-14 19:15:39 /login .. ~ 506.27ms
+ 2026-08-14 19:15:39 /build/assets/app-DNYtxCxW.css .. ~ 0.32ms
+ 2026-08-14 19:15:39 /build/assets/app-ZIr-ugBT.js .. ~ 1.20ms
+ 2026-08-14 19:15:39 .. ~ 5s
+ 2026-08-14 19:16:46 /login .. ~ 1s
+ 2026-08-14 19:16:47 /build/assets/app-ZIr-ugBT.js .. ~ 0.39ms
+ 2026-08-14 19:16:47 /build/assets/app-DNYtxCxW.css .. ~ 2.34ms
+ 2026-08-14 19:16:47 .. ~ 5s
+ 2026-08-14 19:18:09 /livewire/update .. ~ 2s
+ 2026-08-14 19:18:11 /dashboard .. ~ 1s
+ 2026-08-14 19:18:19 .. ~ 4s
+ 2026-08-14 19:18:27 /projects .. ~ 2s
+ 2026-08-14 19:18:30 .. ~ 5s
+ 2026-08-14 19:18:36 .. ~ 4s
+ 2026-08-14 19:18:41 /dashboard .. ~ 1s
+ 2026-08-14 19:18:46 .. ~ 5s
+ 2026-08-14 19:18:53 .. ~ 5s
+ 2026-08-14 19:19:07 .. ~ 5s
+ 2026-08-14 19:19:23 /settings .. ~ 3s
+ 2026-08-14 19:19:33 /dashboard .. ~ 2s
+ 2026-08-14 19:19:36 .. ~ 4s
+ 2026-08-14 19:19:44 .. ~ 5s
+ 2026-08-14 19:19:44 .. ~ 6s
+ 2026-08-14 19:19:53 .. ~ 4s
+ 2026-08-14 19:20:15 /logout .. ~ 5s
+ 2026-08-14 19:20:20 /login .. ~ 2s
+ 2026-08-14 19:20:23 /build/assets/app-DNYtxCxW.css .. ~ 31.30ms
+ 2026-08-14 19:20:23 /build/assets/app-ZIr-ugBT.js .. ~ 591.55ms
+ 2026-08-14 19:21:12 /login .. ~ 2s
+ 2026-08-14 19:21:14 /build/assets/app-CbX7N-u-.css .. ~ 0.28ms
+ 2026-08-14 19:21:14 /build/assets/app-ZIr-ugBT.js .. ~ 2.52ms
+ 2026-08-14 19:21:14 /livewire/update .. ~ 5s
+ 2026-08-14 19:21:20 /dashboard .. ~ 1s
+ 2026-08-14 19:21:28 /clients .. ~ 3s
+ 2026-08-14 19:21:31 /livewire/update .. ~ 3s
+ 2026-08-14 19:21:43 /livewire/update .. ~ 1s
+ 2026-08-14 19:21:48 /livewire/update .. ~ 1s
+ 2026-08-14 19:21:51 .. ~ 6s
+ 2026-08-14 19:21:57 /dashboard .. ~ 4s
+ 2026-08-14 19:22:10 .. ~ 5s
+ 2026-08-14 19:22:16 .. ~ 520.59ms
+ 2026-08-14 19:22:26 .. ~ 5s
+ 2026-08-14 19:22:32 .. ~ 4s
+ 2026-08-14 19:22:49 /leads .. ~ 2s
+ 2026-08-14 19:22:52 /dashboard .. ~ 4s
+ 2026-08-14 19:22:57 /build/assets/app-DaZLaWwF.css .. ~ 0.59ms
+ 2026-08-14 19:23:01 .. ~ 5s
+ 2026-08-14 19:23:09 /logout .. ~ 3s
+ 2026-08-14 19:23:11 /login .. ~ 1s
+ 2026-08-14 19:23:13 /build/assets/app-ZIr-ugBT.js .. ~ 0.43ms
+ 2026-08-14 19:23:13 /build/assets/app-DaZLaWwF.css .. ~ 15.62ms
+ 2026-08-14 19:24:24 /login .. ~ 1s
+ 2026-08-14 19:24:26 /build/assets/app-CqsmOjew.css .. ~ 3.14ms
+ 2026-08-14 19:24:26 /build/assets/app-ZIr-ugBT.js .. ~ 4.90ms
+ 2026-08-14 19:24:26 /livewire/update .. ~ 3s
+ 2026-08-14 19:24:30 /dashboard .. ~ 1s
+ 2026-08-14 19:24:32 .. ~ 5s
+ 2026-08-14 19:24:45 .. ~ 4s
+ 2026-08-14 19:25:42 .. ~ 5s
+ 2026-08-14 19:25:48 .. ~ 5s
+ 2026-08-14 19:25:59 /dashboard .. ~ 6s
+ 2026-08-14 19:26:06 /build/assets/app-ZIr-ugBT.js .. ~ 0.40ms
+ 2026-08-14 19:26:06 /build/assets/app-CqsmOjew.css .. ~ 1.73ms
+ 2026-08-14 19:26:07 .. ~ 5s
+ 2026-08-14 19:26:16 .. ~ 2s
+ 2026-08-14 19:26:43 .. ~ 4s
+ 2026-08-14 19:26:53 /dashboard .. ~ 8s
+ 2026-08-14 19:27:02 /build/assets/app-ZIr-ugBT.js .. ~ 0.23ms
+ 2026-08-14 19:27:02 /build/assets/app-CqsmOjew.css .. ~ 2.31ms
+ 2026-08-14 19:27:02 .. ~ 4s
+ 2026-08-14 19:27:07 /dashboard .. ~ 2s
+ 2026-08-14 19:27:10 /build/assets/app-ZIr-ugBT.js .. ~ 0.36ms
+ 2026-08-14 19:27:10 /build/assets/app-CqsmOjew.css .. ~ 1.28ms
+ 2026-08-14 19:27:10 .. ~ 4s
+ 2026-08-14 19:27:16 /dashboard .. ~ 1s
+ 2026-08-14 19:27:18 /build/assets/app-ZIr-ugBT.js .. ~ 0.14ms
+ 2026-08-14 19:27:18 /build/assets/app-CqsmOjew.css .. ~ 0.98ms
+ 2026-08-14 19:27:18 .. ~ 5s
+ 2026-08-14 19:27:51 .. ~ 4s
+ 2026-08-14 19:28:22 .. ~ 4s
+ 2026-08-14 19:28:28 /settings .. ~ 2s
+ 2026-08-14 19:28:31 /build/assets/app-DT_64fhx.css .. ~ 560.28ms
+ 2026-08-14 19:28:34 /dashboard .. ~ 3s
+ 2026-08-14 19:28:38 .. ~ 5s
+ 2026-08-14 19:28:54 .. ~ 5s
+ 2026-08-14 19:29:17 .. ~ 5s
+ 2026-08-14 19:29:47 /warehouses .. ~ 2s
+ 2026-08-14 19:29:51 /livewire/update .. ~ 1s
+ 2026-08-14 19:29:55 .. ~ 5s
+ 2026-08-14 19:30:00 /projects .. ~ 3s
+ 2026-08-14 19:30:05 /livewire/update .. ~ 1s
+ 2026-08-14 19:30:11 /tools .. ~ 2s
+ 2026-08-14 19:30:16 /livewire/update .. ~ 1s
+ 2026-08-14 19:30:18 /livewire/update .. ~ 1s
+ 2026-08-14 19:30:21 /payables/destajos .. ~ 3s
+ 2026-08-14 19:30:24 /tests .. ~ 4s
+ 2026-08-14 19:30:29 /livewire/update .. ~ 7s
+ 2026-08-14 19:30:37 /livewire/update .. ~ 1s
+ 2026-08-14 19:30:39 /dashboard .. ~ 2s
+ 2026-08-14 19:31:23 .. ~ 5s
+ 2026-08-14 19:31:31 .. ~ 4s
+ 2026-08-14 19:31:45 /settings .. ~ 4s
+ 2026-08-14 19:31:50 /build/assets/app-BlMv6OGJ.css .. ~ 0.14ms
+ 2026-08-14 19:31:51 /livewire/update .. ~ 1s
+ 2026-08-14 19:31:58 /dashboard .. ~ 1s
+ 2026-08-14 19:32:01 .. ~ 5s
+ 2026-08-14 19:32:06 /livewire/update .. ~ 1s
+ 2026-08-14 19:32:08 /livewire/update .. ~ 1s
+ 2026-08-14 19:32:09 /livewire/update .. ~ 1s
+ 2026-08-14 19:32:10 /livewire/update .. ~ 2s
+ 2026-08-14 19:32:12 /livewire/update .. ~ 1s
+ 2026-08-14 19:32:16 /livewire/update .. ~ 1s
+ 2026-08-14 19:33:32 /dashboard .. ~ 1s
+ 2026-08-14 19:33:33 /login .. ~ 1s
+ 2026-08-14 19:33:34 /build/assets/app-BlMv6OGJ.css .. ~ 0.12ms
+ 2026-08-14 19:33:34 /livewire/livewire.js .. ~ 1s
+ 2026-08-14 19:33:34 /build/assets/app-ZIr-ugBT.js .. ~ 1s
+ 2026-08-14 19:34:54 .. ~ 4s
+ 2026-08-14 19:35:43 .. ~ 4s
+ 2026-08-14 19:36:51 .. ~ 5s
+ 2026-08-14 19:37:17 .. ~ 4s
+ 2026-08-14 19:38:53 /dashboard .. ~ 2s
+ 2026-08-14 19:38:56 /build/assets/app-32Dn8Zug.css .. ~ 0.18ms
+ 2026-08-14 19:38:56 /build/assets/app-ZIr-ugBT.js .. ~ 0.93ms
+ 2026-08-14 19:38:56 /clients .. ~ 5s
+ 2026-08-14 19:39:01 /dashboard .. ~ 3s
+ 2026-08-14 19:40:34 .. ~ 5s
+ 2026-08-14 19:43:03 .. ~ 4s
+ 2026-08-14 19:44:49 .. ~ 5s
+ 2026-08-14 19:46:13 .. ~ 5s
+ 2026-08-14 19:49:44 .. ~ 5s
+ 2026-08-14 19:49:53 /logout .. ~ 1s
+ 2026-08-14 19:49:55 /login .. ~ 513.18ms
+ 2026-08-14 19:49:56 /build/assets/app-5Z37mA5-.css .. ~ 0.11ms
+ 2026-08-14 19:49:56 /build/assets/app-ZIr-ugBT.js .. ~ 0.79ms
+ 2026-08-14 19:49:56 /livewire/update .. ~ 2s
+ 2026-08-14 19:50:01 /dashboard .. ~ 518.78ms
+ 2026-08-14 19:50:01 /login .. ~ 1s
+ 2026-08-14 19:50:02 /build/assets/app-ZIr-ugBT.js .. ~ 0.12ms
+ 2026-08-14 19:50:02 /build/assets/app-5Z37mA5-.css .. ~ 0.73ms
+ 2026-08-14 19:50:02 /login .. ~ 2s
+ 2026-08-14 19:50:05 /build/assets/app-5Z37mA5-.css .. ~ 0.18ms
+ 2026-08-14 19:50:05 /build/assets/app-ZIr-ugBT.js .. ~ 0.55ms
+ 2026-08-14 19:50:05 .. ~ 5s
+ 2026-08-14 19:50:35 /livewire/update .. ~ 1s
+ 2026-08-14 19:50:39 /livewire/update .. ~ 2s
+ 2026-08-14 19:50:40 /dashboard .. ~ 1s
+ 2026-08-14 19:50:43 .. ~ 5s
+ 2026-08-14 19:50:50 .. ~ 5s
+ 2026-08-14 19:50:55 /settings .. ~ 3s
+ 2026-08-14 19:51:00 /livewire/update .. ~ 1s
+ 2026-08-14 19:51:04 /livewire/update .. ~ 5s
+ 2026-08-14 19:51:12 /livewire/update .. ~ 4s
+ 2026-08-14 19:51:16 /livewire/update .. ~ 1s
+ 2026-08-14 19:51:19 /livewire/update .. ~ 2s
+ 2026-08-14 19:51:23 .. ~ 5s
+ 2026-08-14 19:51:29 /livewire/update .. ~ 1s
+ 2026-08-14 19:51:31 /livewire/update .. ~ 1s
+ 2026-08-14 19:51:33 /livewire/update .. ~ 1s
+ 2026-08-14 19:51:38 /dashboard .. ~ 1s
+ 2026-08-14 19:51:40 .. ~ 5s
+ 2026-08-14 19:53:30 .. ~ 4s
+ 2026-08-14 19:53:44 .. ~ 5s
+ 2026-08-14 19:54:57 .. ~ 5s
+ 2026-08-14 19:55:05 .. ~ 4s
+ 2026-08-14 19:55:37 /dashboard .. ~ 2s
+ 2026-08-14 19:55:40 /login .. ~ 5s
+ 2026-08-14 19:55:44 /build/assets/app-ZIr-ugBT.js .. ~ 0.46ms
+ 2026-08-14 19:55:44 /build/assets/app-5Z37mA5-.css .. ~ 135.43ms
+ 2026-08-14 19:55:44 /livewire/update .. ~ 2s
+ 2026-08-14 19:55:50 /livewire/update .. ~ 2s
+ 2026-08-14 19:55:52 /dashboard .. ~ 4s
+ 2026-08-14 19:55:57 .. ~ 4s
+ 2026-08-14 19:56:11 .. ~ 4s
+ 2026-08-14 19:57:48 .. ~ 4s
+ 2026-08-14 20:01:01 /logout .. ~ 2s
+ 2026-08-14 20:01:03 /login .. ~ 1s
+ 2026-08-14 20:01:04 /build/assets/app-ZIr-ugBT.js .. ~ 0.21ms
+ 2026-08-14 20:01:04 /build/assets/app-5Z37mA5-.css .. ~ 1.06ms
+ 2026-08-14 20:04:13 /livewire/update .. ~ 1s
+ 2026-08-14 20:04:18 /livewire/update .. ~ 1s
+ 2026-08-14 20:04:20 /dashboard .. ~ 1s
+ 2026-08-14 20:05:33 .. ~ 4s
+ 2026-08-14 20:06:07 /leads .. ~ 3s
+ 2026-08-14 20:06:09 .. ~ 5s
+ 2026-08-14 20:06:29 /livewire/update .. ~ 2s
+ 2026-08-14 20:07:28 /livewire/update .. ~ 1s
+ 2026-08-14 20:07:39 /livewire/update .. ~ 1s
+ 2026-08-14 20:07:46 /livewire/update .. ~ 510.35ms
+ 2026-08-14 20:07:51 /projects .. ~ 5s
+ 2026-08-14 20:07:57 .. ~ 4s
+ 2026-08-14 20:08:07 .. ~ 5s
+ 2026-08-14 20:08:52 /livewire/update .. ~ 1s
+ 2026-08-14 20:09:11 /livewire/update .. ~ 1s
+ 2026-08-14 20:09:14 /livewire/update .. ~ 509.77ms
+ 2026-08-14 20:09:15 /livewire/update .. ~ 1s
+ 2026-08-14 20:09:16 /livewire/update .. ~ 522.87ms
+ 2026-08-14 20:09:17 /livewire/update .. ~ 2s
+ 2026-08-14 20:09:18 .. ~ 4s
+ 2026-08-14 20:09:37 /clients .. ~ 2s
+ 2026-08-14 20:09:39 /livewire/update .. ~ 2s
+ 2026-08-14 20:10:13 /providers .. ~ 1s
+ 2026-08-14 20:10:14 .. ~ 5s
+ 2026-08-14 20:10:21 .. ~ 4s
+ 2026-08-14 20:10:34 /livewire/update .. ~ 1s
+ 2026-08-14 20:10:47 /warehouses .. ~ 3s
+ 2026-08-14 20:10:51 .. ~ 2s
+ 2026-08-14 20:11:02 .. ~ 5s
+ 2026-08-14 20:11:10 /livewire/update .. ~ 1s
+ 2026-08-14 20:11:20 /livewire/update .. ~ 512.14ms
+ 2026-08-14 20:11:22 /livewire/update .. ~ 512.55ms
+ 2026-08-14 20:11:26 /livewire/update .. ~ 513.48ms
+ 2026-08-14 20:11:28 /livewire/update .. ~ 1s
+ 2026-08-14 20:11:36 /tools .. ~ 2s
+ 2026-08-14 20:11:38 .. ~ 5s
+ 2026-08-14 20:12:10 /livewire/update .. ~ 1s
+ 2026-08-14 20:12:14 /livewire/update .. ~ 1s
+ 2026-08-14 20:12:29 /livewire/update .. ~ 500.86ms
+ 2026-08-14 20:12:34 /expenses .. ~ 2s
+ 2026-08-14 20:12:37 .. ~ 5s
+ 2026-08-14 20:12:56 /livewire/update .. ~ 568.71ms
+ 2026-08-14 20:13:07 /receivables/administracion .. ~ 7s
+ 2026-08-14 20:13:19 .. ~ 5s
+ 2026-08-14 20:13:46 /livewire/update .. ~ 509.59ms
+ 2026-08-14 20:13:50 /receivables/contrato .. ~ 2s
+ 2026-08-14 20:13:53 /livewire/update .. ~ 1s
+ 2026-08-14 20:13:56 /receivables/estimacion .. ~ 1s
+ 2026-08-14 20:13:58 .. ~ 5s
+ 2026-08-14 20:14:05 .. ~ 5s
+ 2026-08-14 20:14:13 .. ~ 5s
+ 2026-08-14 20:14:54 .. ~ 5s
+ 2026-08-14 20:15:12 /purchase-orders .. ~ 1s
+ 2026-08-14 20:15:15 /payables/compras .. ~ 2s
+ 2026-08-14 20:15:18 /livewire/update .. ~ 2s
+ 2026-08-14 20:15:24 /payables/subcontratos .. ~ 3s
+ 2026-08-14 20:15:28 /payables/mano_obra .. ~ 5s
+ 2026-08-14 20:15:33 /payables/destajos .. ~ 4s
+ 2026-08-14 20:15:37 /procedures .. ~ 1s
+ 2026-08-14 20:15:39 /payables/indirectos .. ~ 4s
+ 2026-08-14 20:15:43 /rentals .. ~ 2s
+ 2026-08-14 20:15:48 /livewire/update .. ~ 1s
+ 2026-08-14 20:15:59 .. ~ 5s
+ 2026-08-14 20:16:19 .. ~ 5s
+ 2026-08-14 20:16:24 /reports/admin/proyectos-cxp .. ~ 1s
+ 2026-08-14 20:16:26 /reports/admin/consolidado-cxp .. ~ 1s
+ 2026-08-14 20:16:28 /reports/admin/balance-proveedores .. ~ 2s
+ 2026-08-14 20:16:30 /reports/admin/pagado-cobrado .. ~ 1s
+ 2026-08-14 20:16:31 .. ~ 5s
+ 2026-08-14 20:16:36 /reports/admin/estado-resultados .. ~ 512.78ms
+ 2026-08-14 20:16:37 .. ~ 5s
+ 2026-08-14 20:16:45 /reports/admin/consolidado-cxp .. ~ 2s
+ 2026-08-14 20:16:50 /reports/admin/balance-proveedores .. ~ 3s
+ 2026-08-14 20:16:52 /reports/admin/pagado-cobrado .. ~ 2s
+ 2026-08-14 20:16:56 /reports/admin/estado-resultados .. ~ 6s
+ 2026-08-14 20:17:03 /reports/operational/insumos-consumidos .. ~ 5s
+ 2026-08-14 20:17:13 .. ~ 4s
+ 2026-08-14 20:17:24 .. ~ 4s
+ 2026-08-14 20:17:30 /catalogs .. ~ 3s
+ 2026-08-14 20:17:34 .. ~ 4s
+ 2026-08-14 20:18:03 /livewire/update .. ~ 1s
+ 2026-08-14 20:18:05 /livewire/update .. ~ 512.88ms
+ 2026-08-14 20:18:05 /livewire/update .. ~ 513.79ms
+ 2026-08-14 20:18:07 /livewire/update .. ~ 1s
+ 2026-08-14 20:18:09 /livewire/update .. ~ 1s
+ 2026-08-14 20:18:10 /livewire/update .. ~ 1s
+ 2026-08-14 20:18:11 /livewire/update .. ~ 508.17ms
+ 2026-08-14 20:18:15 /livewire/update .. ~ 508.59ms
+ 2026-08-14 20:18:16 /livewire/update .. ~ 512.94ms
+ 2026-08-14 20:18:18 /livewire/update .. ~ 513.95ms
+ 2026-08-14 20:18:20 /livewire/update .. ~ 510.10ms
+ 2026-08-14 20:18:23 /settings .. ~ 1s
+ 2026-08-14 20:18:24 .. ~ 5s
+ 2026-08-14 20:20:23 /dashboard .. ~ 1s
+ 2026-08-14 20:20:24 .. ~ 5s
+ 2026-08-14 20:20:56 .. ~ 5s
+ 2026-08-14 20:21:15 .. ~ 5s
+ 2026-08-14 20:23:42 /livewire/update .. ~ 1s
+ 2026-08-14 20:23:45 /logout .. ~ 3s
+ 2026-08-14 20:23:48 /login .. ~ 1s
+ 2026-08-14 20:23:50 /build/assets/app-ZIr-ugBT.js .. ~ 0.32ms
+ 2026-08-14 20:23:51 /build/assets/app-5Z37mA5-.css .. ~ 1.93ms
+ 2026-08-14 20:24:53 /livewire/update .. ~ 1s
+ 2026-08-14 20:27:49 /livewire/update .. ~ 2s
+ 2026-08-14 20:33:13 /livewire/update .. ~ 1s
+ 2026-08-14 20:33:16 /livewire/update .. ~ 1s
+ 2026-08-14 20:33:17 /dashboard .. ~ 510.83ms
+ 2026-08-14 20:33:18 .. ~ 5s
+ 2026-08-14 20:33:24 .. ~ 5s
+ 2026-08-14 20:33:30 /expenses .. ~ 1s
+ 2026-08-14 20:33:31 /warehouses .. ~ 1s
+ 2026-08-14 20:33:32 /logout .. ~ 5s
+ 2026-08-14 20:33:38 /login .. ~ 1s
+ 2026-08-14 20:33:39 /build/assets/app-ZIr-ugBT.js .. ~ 0.06ms
+ 2026-08-14 20:33:39 /build/assets/app-5Z37mA5-.css .. ~ 0.54ms
+ 2026-08-14 20:33:39 .. ~ 7s
+ 2026-08-14 20:39:15 /livewire/update .. ~ 2s
+ 2026-08-14 20:39:19 /livewire/update .. ~ 1s
+ 2026-08-14 20:39:21 /dashboard .. ~ 1s
+ 2026-08-14 20:39:23 /logout .. ~ 4s
+ 2026-08-14 20:39:27 /login .. ~ 511.29ms
+ 2026-08-14 20:39:28 /build/assets/app-ZIr-ugBT.js .. ~ 0.09ms
+ 2026-08-14 20:39:28 /build/assets/app-5Z37mA5-.css .. ~ 0.40ms
+
+ INFO Environment modified. Restarting server.. 
+
+ INFO Server running on [http://127.0.0.1:8000]. 
+
+ Press Ctrl+C to stop the server
+
+ 2026-08-17 11:00:48 /login .. ~ 1s

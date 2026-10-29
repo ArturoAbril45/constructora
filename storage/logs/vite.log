@@ -1,0 +1,15 @@
+
+> dev
+> vite
+
+[2m19:11:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because lockfile has changed
+
+  [32m[1mVITE[22m v8.2.1[39m  [2mready in [0m[1m1713[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[laravel:fonts] Optimized font fallbacks require the optional "fontaine" package. Install it, or set "optimizedFallbacks: false" on your fonts to disable the feature.
+
+  [31m[1mLARAVEL[22m v13.25.0[39m  [2mplugin[22m [1mv3.2.0[22m
+
+  [32m➜[39m  [1mAPP_URL[22m: [36mhttp://localhost:[1m8000[22m[39m
+[2m19:11:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [optimizer] bundling dependencies...
